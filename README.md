@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WasabiThumb
+- 👋 Hi, I’m @WasabiThumb\
 <sup><sub>WasabiThumbs or Wasabi_Thumbs on other platforms</sub></sup>
 - 👀 I’m interested in getting my B.S. Computer Science
 - 🌱 I’m currently learning computer graphics concepts for my upcoming game
