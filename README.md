@@ -1,10 +1,9 @@
-<h2 align="middle">Stats</h2>
+Hello, I'm **Xavier** (classically known under the alias *WasabiThumbs*)! 
 
-<p align="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=WasabiThumb&theme=merko&show_icons=true&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&hide=contribs" style="height: 13em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasabiThumb&theme=merko&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook&langs_count=10" style="height: 13em">
-</p>
-<p align="middle">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WasabiThumb&theme=merko&hide_border=true">
-</p>
-<br>
+You've reached my FOSS dumping ground, where you can find quality parsers, utilities, tools, programs and plugins written by yours truly. I'm currently focused on private projects, but I also contribute to [XClaim v2](https://github.com/WasabiThumb/xclaim/tree/modern) as time permits.
+
+I have a wide range of coding interests and proficiencies, with a preference for strongly typed languages and a soft spot for
+Java. I also often use Kotlin, C/C++, Rust, and web technologies like TypeScript, JavaScript, HTML, CSS and PHP. I embrace modern tooling and frameworks- Gradle over Maven, Tailwind for life, et cetera. *I am insufferable.*
+
+For inquiries, I prefer Discord ([@wasabithumbs](https://discord.com/users/292053354564157441)) over email when possible. If you are reporting
+a non-security-critical issue with any of my work, please create an issue on its associated repository.
