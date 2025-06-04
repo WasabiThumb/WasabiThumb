@@ -6,4 +6,4 @@ I have a wide range of coding interests and proficiencies, with a preference for
 Java. I also often use Kotlin, C/C++, Rust, and web technologies like TypeScript, JavaScript, HTML, CSS and PHP. I embrace modern tooling and frameworks- Gradle over Maven, Tailwind for life, et cetera. *I am insufferable.*
 
 For inquiries, I prefer Discord ([@wasabithumbs](https://discord.com/users/292053354564157441)) over email when possible. If you are reporting
-a non-security-critical issue with any of my work, please create an issue on its associated repository.
+a non-security-critical issue with any of my projects, please create an issue on its associated repository.
